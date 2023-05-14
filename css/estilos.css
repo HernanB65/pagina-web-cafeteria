@@ -11,3 +11,8 @@ header {
 li {
     color: #444;
 }
+   
+footer {
+    color: crimson;
+    background-color: black;
+}
